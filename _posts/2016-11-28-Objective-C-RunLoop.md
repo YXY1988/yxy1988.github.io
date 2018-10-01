@@ -9,7 +9,7 @@ catalog: true
 tags:
     - iOS
     - RunLoop
-    - Obj-C
+    - daily
 ---
 
 # 深入理解RunLoop
