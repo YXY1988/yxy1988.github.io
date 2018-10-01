@@ -3,7 +3,7 @@ title: YXY Blog
 SEOTitle: 小隐于野 | YXY Blog
 header-img: img/post-bg-desk.jpg
 email: asuka2013@sjtu.edu.cn
-description: "I always trust code more than people anyway"
+description: "There are no shortcuts to any place worth going."
 keyword: "Augmented Reality, AR, Computer Vision, CV, ARToolkit, OpenCV, Osgart, ALVAR, SLAM"
 url: "https://yxy1988.github.io/home/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/YXY1988/home.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Fear not for the future, weep not for the past."
 sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
