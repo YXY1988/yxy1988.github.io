@@ -7,7 +7,7 @@ description: "There are no shortcuts to any place worth going."
 keyword: "Augmented Reality, AR, Computer Vision, CV, ARToolkit, OpenCV, Osgart, ALVAR, SLAM"
 url: "https://yxy1988.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/YXY1988/home.git" # you code repository
+github_repo: "https://github.com/YXY1988/yxy1988.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
