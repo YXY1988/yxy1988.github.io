@@ -7,4 +7,4 @@ Me, phD candidate from Shanghai Jiao Tong University. After nearly 6 years of re
 Build basic structure of the blog.
 
 ## License
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/YXY1988/home/blob/master/LICENSE)。
