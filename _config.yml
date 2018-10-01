@@ -62,7 +62,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 770246b5595a2ff54c7f                            #生成的clientID
   clientSecret: 67021f5ea81a7d25770b5cf6eff364db2bd5f4cf    #生成的clientSecret
-  repo: home    #仓库名称
+  repo: yxy1988.github.io    #仓库名称
   owner: YXY1988    #github用户名
   admin: YXY1988
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
