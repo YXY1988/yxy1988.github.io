@@ -22,7 +22,7 @@ weibo_username:     1645184811
 zhihu_username:     SJTUdodoro
 github_username:    YXY1988
 csdn_username:      SJTU_dodoro
-#facebook_username:  
+#facebook_username:
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -93,7 +93,11 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
+# 版权声明
+creative_commons:
+license: by-nc-sa
+sidebar: true
+post: true
 
 # Friends
 friends: [
