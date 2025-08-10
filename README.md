@@ -1,10 +1,5 @@
-# Welcome to YXY Blog
-
-Me, phD candidate from Shanghai Jiao Tong University. After nearly 6 years of researching and coding on Computer Vision and Augmented Reality fields, I'm preparing graduation affairs. The intension of building this blog is to push me into my new career. Some of my research source codes will be shared here after my graduation.   
-
-
-## 2018-10-1 19:25:35
-Build basic structure of the blog.
+# This blog Start on 2018 and Terminated on 2025
+Once upon a time, I was a Ph.D. and then a PostDoc at SJTU. Now I am engaged in CV/CAM R&D job. Past ideals have all turned into a mere struggle to survive. Blog is for self-introspection to find meaning and direction my rest life.
 
 ## License
 遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/YXY1988/home/blob/master/LICENSE)。
