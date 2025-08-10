@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Collection of Troubles: Common Errors When Writing Journal Papers with LaTeX (Continuously Updated)
-subtitle: Series 2 of "LaTeX: From Getting Started to Giving Up"
+subtitle: Series 2 of "LaTeX- From Getting Started to Giving Up"
 date: 2018-12-22T16:00:00.000Z
 author: yxy
 header-img: img/post-bg-clock.jpg

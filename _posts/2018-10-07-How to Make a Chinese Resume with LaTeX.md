@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Make a Chinese Resume with LaTeX 
-subtitle: Series 1 of "LaTeX: From Getting Started to Giving Up"
-date: 2018-10-07T00:00:00.000Z
+subtitle: Series 1 of "LaTeX - From Getting Started to Giving Up"
+date: 2018-10-07T86:00:00.000Z
 author: yxy
 header-img: img/post-bg-glass.jpg
 catalog: true
@@ -10,6 +10,7 @@ tags:
   - latex
   - skill
 ---
+
 
 > I've been job hunting recently. Since I'm looking for a job in China, I need to make a Chinese resume. So those nice English templates like the awesome template can't be used directly. But wouldn't it be great if I could learn to transform an English template into a Chinese one? Therefore, this article records the transformation process and the final effect.
 
