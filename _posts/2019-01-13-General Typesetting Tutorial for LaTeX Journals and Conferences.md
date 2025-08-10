@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Motherly Guide: General Typesetting Tutorial for LaTeX Journals and Conferences
-subtitle: Series 3 of "LaTeX: From Getting Started to Giving Up"
+subtitle: Series 3 of "LaTeX - From Getting Started to Giving Up"
 date: 2019-01-13T16:00:00.000Z
 author: yxy
 header-img: img/post-bg-coffee.jpg
