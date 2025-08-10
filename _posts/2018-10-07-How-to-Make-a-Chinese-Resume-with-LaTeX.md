@@ -2,7 +2,7 @@
 layout: post
 title: How to Make a Chinese Resume with LaTeX 
 subtitle: Series 1 of "LaTeX - From Getting Started to Giving Up"
-date: 2018-10-07T86:00:00.000Z
+date: 2018-10-07T06:00:00.000Z
 author: yxy
 header-img: img/post-bg-glass.jpg
 catalog: true
