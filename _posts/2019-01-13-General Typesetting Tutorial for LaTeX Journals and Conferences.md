@@ -1,3 +1,4 @@
+---
 layout: post
 title: A Motherly Guide: General Typesetting Tutorial for LaTeX Journals and Conferences
 subtitle: Series 3 of "LaTeX: From Getting Started to Giving Up"
